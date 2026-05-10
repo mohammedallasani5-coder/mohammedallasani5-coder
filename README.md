@@ -46,3 +46,10 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammedallasani5-coder/mohammedallasani5-coder/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/mohammedallasani5-coder/mohammedallasani5-coder/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
